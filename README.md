@@ -1,6 +1,6 @@
 # 🚀 Alex Dev Portfolio
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlsY2IwN3IzOHo4NHFuMWgzenNvdzF1cnExaXc0NXIyd3liamYxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlpcGMxaGRya2w4OXNpcHM0ZGhrNmdta3Nsdzc4ZW5jMG1vdGdsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnfzT3k8g7wpG/giphy.gif" width="100%" />
 
 
 
