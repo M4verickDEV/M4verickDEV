@@ -7,7 +7,7 @@
 
 
 
-Hi there! 👋 I'm **Alex Pinheiro**, a passionate Front-End Developer in training.  
+Hi there! 👋 I'm **Alex**, a passionate Front-End Developer in training.  
 I love building sleek, interactive, and user-friendly web experiences.  
 💡 Knowledge is the key 🤯 | 🚀 Never stop learning!
 
