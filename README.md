@@ -1,7 +1,8 @@
 # 🚀 Alex Dev Portfolio
 
-![Alex Dev Banner](https://i.ibb.co/album/your-banner.png) <!-- Optional GIF or banner -->
-
+![Alex Dev Banner]<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21rNndxeGpsczg3eDRsamI0bDE5ZHVkNzY5YzcwaGM1amt1MjJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGPKPB6fdI6B6qRUCK/giphy.gif" width="600">
+</p>
 Hi there! 👋 I'm **Alex Pinheiro**, a passionate Front-End Developer in training. I love building sleek, interactive, and user-friendly web experiences. Never stop learning! 🤯🚀  
 
 ---
