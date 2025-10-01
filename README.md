@@ -1,6 +1,7 @@
 # 🚀 Alex Dev Portfolio
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3psMnBscm02dGF3NjFvMXNrMmlxZGYweGVzNGZnZm5wZTBrYWt6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGPKPB6fdI6B6qRUCK/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 
 
 Hi there! 👋 I'm **Alex Pinheiro**, a passionate Front-End Developer in training.  
