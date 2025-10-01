@@ -1,8 +1,8 @@
 # 🚀 Alex Dev Portfolio
 
-![Header Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21rNndxeGpsczg3eDRsamI0bDE5ZHVkNzY5YzcwaGM1amt1MjJ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGPKPB6fdI6B6qRUCK/giphy.gif) <!-- Optional banner -->
+![Alex Dev Banner](https://i.ibb.co/album/your-banner.png) <!-- Optional GIF or banner -->
 
-Hi there! 👋 I'm **Alex**, a passionate Front-End Developer. I love building sleek, interactive, and user-friendly web experiences.  
+Hi there! 👋 I'm **Alex Pinheiro**, a passionate Front-End Developer in training. I love building sleek, interactive, and user-friendly web experiences. Never stop learning! 🤯🚀  
 
 ---
 
@@ -25,7 +25,7 @@ A personal portfolio to showcase my work with smooth animations and responsive d
 
 ### 2️⃣ Weather App
 🔗 [Live Demo](https://weather-app-link.com) | 🛠️ React, API Integration  
-Real-time weather app fetching data from Weather API, complete with dynamic background.
+Real-time weather app fetching data from Weather API, complete with dynamic backgrounds.
 
 ### 3️⃣ Game Dashboard
 🔗 [Live Demo](https://game-dashboard-link.com) | 🛠️ JavaScript, Chart.js  
@@ -35,13 +35,16 @@ Interactive dashboard to visualize game stats and player progress.
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4verickDEV&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4verickDEV&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
